@@ -1,1 +1,1 @@
-# hello-world
+# hello-world - A classic project for beginners
